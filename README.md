@@ -38,13 +38,13 @@ I'm currently looking for opportunities to grow as a developer while continuousl
 
 ## 📌 Featured Projects
 
-### 🎬 CinePlay
-
-A full-stack movie platform focused on user experience and modern web development.
-
 ### ☕ Dom Cafeteria
 
 Institutional website with an administrative panel for managing content.
+
+### 🎬 CinePlay
+
+A full-stack movie platform focused on user experience and modern web development.
 
 ### 📚 UniBiblion
 
@@ -66,54 +66,17 @@ Academic implementations of classical data structures and algorithms.
 - Database Design
 - Clean Code
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=livia-lima-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livia-lima-dev&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=livia-lima-dev&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
 <p align="left">
 
-<a href="SEU LINKEDIN">
+<a href="https://www.linkedin.com/in/livia-lima-dev/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:livia.lima.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</p>
-
----
-
-<div align="center">
-
-*"Code is a tool for solving problems, learning continuously, and creating meaningful solutions."*
-
-</div>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/livia-lima-dev/livia-lima-dev/output/github-contribution-grid-snake.svg"/>
 </p>
