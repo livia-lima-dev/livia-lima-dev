@@ -4,7 +4,7 @@
 
 ### Computer Science Student • Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Building+Projects+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=700&lines=Building+Projects+and+Learning+Every+Day" />
 
 </div>
 
@@ -34,7 +34,7 @@ I'm currently seeking internship opportunities where I can contribute, learn, an
   <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-## Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
