@@ -28,10 +28,16 @@ I'm currently seeking internship opportunities where I can contribute, learn, an
 <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,mysql" />
 </p>
 
-### Frameworks & Tools
+### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,vscode,idea,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
 </p>
 
 ---
