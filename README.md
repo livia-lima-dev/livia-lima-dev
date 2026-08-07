@@ -4,7 +4,7 @@
 
 ### Computer Science Student • Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Passionate+about+Software+Development;Building+Projects+and+Learning+Every+Day;Always+Exploring+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Building+Projects+and+Learning+Every+Day" />
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student at **UNIFOR** passionate about solving problems through software.
+I'm a Computer Science student at UNIFOR with a strong interest in software development and problem-solving.
 
-I enjoy learning new technologies and building projects that strengthen my understanding of software engineering, programming, system design, databases and application development.
+Through academic and personal projects, I'm building a solid foundation in software engineering, system design, databases, and application development while continuously expanding my technical skills.
 
-I'm currently looking for opportunities to grow as a developer while continuously expanding my technical skills.
+I'm currently seeking internship opportunities where I can contribute, learn, and grow as a software developer.
 
 ---
 
@@ -36,7 +36,7 @@ I'm currently looking for opportunities to grow as a developer while continuousl
 
 ---
 
-## 📌 Featured Projects
+## 📌 Highlighted Projects
 
 ### ☕ Dom Cafeteria
 
@@ -56,27 +56,12 @@ Academic implementations of classical data structures and algorithms.
 
 ---
 
-## 🌱 Currently Learning
-
-- Software Engineering
-- Object-Oriented Programming
-- Software Architecture
-- Data Structures & Algorithms
-- Mobile Development
-- Database Design
-- Clean Code
-
-
 ## 📫 Let's Connect
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/livia-lima-dev/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:livia.lima.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
