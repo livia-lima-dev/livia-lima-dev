@@ -50,6 +50,12 @@ Institutional website with an administrative panel for managing content.
 
 **Technologies:** React, JavaScript, HTML, CSS
 
+### 🍴 Páginas & Sabores
+
+Interactive recipe platform featuring a digital cookbook with 3D page-turning animations. **Currently in development.**
+
+**Technologies:** React, JavaScript, CSS, Node.js, Express, MySQL
+
 ### 🎬 CinePlay
 
 A full-stack movie platform focused on user experience and modern web development.
@@ -61,14 +67,6 @@ A full-stack movie platform focused on user experience and modern web developmen
 Android application developed with Kotlin following the MVVM architecture.
 
 **Technologies:** Kotlin, Android, MVVM
-
-
-### 🍴 Páginas & Sabores
-
-Interactive recipe platform featuring a digital cookbook with 3D page-turning animations. **Currently in development.**
-
-**Technologies:** React, JavaScript, CSS, Node.js, Express, MySQL
-
 
 ### 🧩 Data Structures
 
