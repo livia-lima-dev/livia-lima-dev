@@ -48,17 +48,33 @@ I'm currently seeking internship opportunities where I can contribute, learn, an
 
 Institutional website with an administrative panel for managing content.
 
+**Technologies:** React, JavaScript, HTML, CSS
+
 ### 🎬 CinePlay
 
 A full-stack movie platform focused on user experience and modern web development.
+
+**Technologies:** React, Node.js, Express, MySQL
 
 ### 📚 UniBiblion
 
 Android application developed with Kotlin following the MVVM architecture.
 
+**Technologies:** Kotlin, Android, MVVM
+
+
+### 🍴 Páginas & Sabores
+
+Interactive recipe platform featuring a digital cookbook with 3D page-turning animations. **Currently in development.**
+
+**Technologies:** React, JavaScript, CSS, Node.js, Express, MySQL
+
+
 ### 🧩 Data Structures
 
 Academic implementations of classical data structures and algorithms.
+
+**Technologies:** Java
 
 ---
 
